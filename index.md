@@ -19,11 +19,13 @@
 > pass
 
 ---
+
 > Music / Exact Audio Copy
 > 
-> [Mirai Canvas / project lights 「天使」盤](./music/1)
+> 1. [Mirai Canvas / project lights 「天使」盤](./music/1)
 > 
-> [DiViNE / BLUE REFLECTION RAY 澪 OP](./music/2)
+> 2. [DiViNE / BLUE REFLECTION RAY 澪 OP](./music/2)
+
 ---
 
 ```diff
