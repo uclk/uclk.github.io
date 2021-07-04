@@ -93,7 +93,7 @@ body:before
     bottom: 0;
     left: 0;
     z-index: -100;
-    background-image: url(https://i0.hdslb.com/bfs/album/98b0263ebe99796af19258ba5404aaaf859c3710.jpg);
+    background-image: url(bkg.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
