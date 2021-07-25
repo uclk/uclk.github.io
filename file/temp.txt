@@ -1,0 +1,12 @@
+document.getElementById('x12').click();
+document.getElementById('x22').click();
+document.getElementById('x02').click();
+document.getElementById('x35').click();
+ $('#city_name')[0].value='江苏-';
+document.getElementById('x52').click();
+document.getElementById('x72').click();
+document.getElementById('x92').click();
+document.getElementById('x102').click();
+document.getElementById('x115').click();
+document.getElementById('x121').click(); //疫苗
+document.getElementById('submit').click();
