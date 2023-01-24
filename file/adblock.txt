@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 www.baidu.com##DIV[class="FYB_RD"]
 zhihu.com##.AdblockBanner
 wenku.baidu.com##DIV[class="fixed-activity-bar"]
