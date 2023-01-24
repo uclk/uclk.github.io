@@ -1,0 +1,56 @@
+www.baidu.com##DIV[class="FYB_RD"]
+zhihu.com##.AdblockBanner
+wenku.baidu.com##DIV[class="fixed-activity-bar"]
+cnblogs.com##span[style*="absolute"][style*="opacity"]
+bilibili.com##.bili-avatar-pendent
+bilibili.com##SPAN[class="b-danmaku-high-icon"]
+www.bilibili.com##DIV[id="live_recommand_report"]
+www.bilibili.com##A[id="right-bottom-banner"]
+baidu.com#?#:-abp-has(>div>div.layer-itemTitle:-abp-contains(百度App))
+baidu.com#?#:-abp-has(>p:-abp-contains(APP内阅读))
+baidu.com##.miniVideo
+baidu.com##.sl-player-el-fixed
+open.163.com##DIV[class="advertisement"]
+www.sainsburys.co.uk##DIV[id="onetrust-consent-sdk"]
+www.w3cschool.cn##DIV[id="topbanner"]
+www.w3cschool.cn##A[class="logo"]
+360doc.com##.contextmenu
+gitee.com##DIV[class="gitee-stars-main-widget pendan-widget"]
+www.zhihu.com##DIV[class="Popover ImagePopover"]
+www.douban.com##DIV[class="ui-overlay-mask"]
+wenku.baidu.com##DIV[class="vip-pop-wrap inner-vip"]
+wenku.baidu.com##DIV[class="tool-bar-wrapper fade-in"]
+##span[style*="absolute"][style*="opacity"]
+##div.leleplayer-logo
+www.bimiacg2.net##DIV[class="tuiguang"]
+www.bimiacg2.net##IMG[src="https://tva3.sinaimg.cn/large/0078bOVFgy1g059jxpjtlj305c030mx7.jpg"]
+www.bimiacg2.net##DIV[id="HMRichBox"]
+www.bimiacg2.net##DIV[id="bkcl"]
+foursquare.com###desktopHeaderBarDrawerContainer
+!baidu.com##.headDeflectorContainer
+!www.bilibili.com##DIV[id="bannerAd"][class="gg-floor-module report-wrap-module report-scroll-module"]
+!www.bilibili.com##DIV[class="slide-gg"]
+!www.bilibili.com##DIV[class="carousel-wrapper carousel-large"]
+!h5.sinaimg.cn/m/weibo-lite/js/smsLogin
+!知乎免登录
+static.zhihu.com/heifetz/*.signflow
+!屏蔽百度热搜
+!文库净化去广告
+!屏蔽鼠标特效
+!使用睿站旧版弹幕
+!睿站去广告
+!屏蔽移动端百度网页弹窗
+!屏蔽百度视频小窗
+hm.baidu.com
+share.baidu.com
+!https://202.121.140.91:8443/branding/_1_1/banner.jpg
+!bilibili.com##DIV[class="bilibili-player-dm-tip-wrap"]
+!##img[alt^="[神楽Mea"]
+hdslb.com/bfs/face/d787003ab32cc82a921236a89591f48a33a28a03.jpg
+http://pc.jinrongwang.net/pc/rich-tf.js
+https://public.video.weibocdn.com/female_version.mp3
+https://accounts.douban.com/passport/login_popup
+https://img3.doubanio.com/dae/fundin/piwik.js
+https://img9.doubanio.com/*.js
+i0.hdslb.com/bfs/feed-admin/d831cbae67aee1a8fe1cc463fb23c9110ee46807.png
+https://i0.hdslb.com/bfs/banner/d39ace5a9922d3a5937517b6faf3f762527a9ee4.png@880w_388h.webp
