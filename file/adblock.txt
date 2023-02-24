@@ -55,3 +55,4 @@ https://img3.doubanio.com/dae/fundin/piwik.js
 https://img9.doubanio.com/*.js
 i0.hdslb.com/bfs/feed-admin/d831cbae67aee1a8fe1cc463fb23c9110ee46807.png
 https://i0.hdslb.com/bfs/banner/d39ace5a9922d3a5937517b6faf3f762527a9ee4.png@880w_388h.webp
+cm.bilibili.com
